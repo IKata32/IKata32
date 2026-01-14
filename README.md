@@ -37,15 +37,14 @@
 
 <p align="center">
   
-  <!-- Main Stats Card -->
-  <img src="https://github-stats.vercel.app/api?username=Ikata32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues" alt="GitHub Stats" width="49%" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats-three-iota-80.vercel.app/api?username=Ikata32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
   
-  <!-- Top Languages (FIXED) -->
-  <img src="https://github-stats.vercel.app/api/top-langs/?username=Ikata32&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Top Languages" width="49%" />
+  <!-- Top Languages - EXCLUDING the stats repo -->
+  <img src="https://github-readme-stats-three-iota-80.vercel.app/api/top-langs/?username=Ikata32&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,github-readme-stats-three-iota-80" alt="Top Languages" width="49%" />
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikata32&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="98%" />
   
 </p>
-
 ---
