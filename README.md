@@ -36,14 +36,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-stats.vercel.app/api?username=Ikata32&show_icons=true&theme=tokyonight" alt="stats" />
   
-  <!-- Streak Stats -->
-  <img src="https://github-stats.vercel.app/api?username=Ikata32&show_icons=true&theme=tokyonight" alt="streak" />
+  <!-- Combined View -->
+  <img height="180em" src="https://github-stats.vercel.app/api?username=Ikata32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-stats.vercel.app/api/top-langs/?username=Ikata32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
   
-  <!-- Top Languages -->
-  <img src="https://github-stats.vercel.app/api/top-langs/?username=Ikata32&layout=compact&theme=tokyonight" alt="top-langs" />
+  <!-- Streak below -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ikata32&theme=tokyonight&hide_border=true&fire=DD2727" />
+  
 </p>
 
 ---
