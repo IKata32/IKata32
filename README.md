@@ -15,7 +15,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Mixed-messages](https://github.com/IKata32/Mixed-messages)**
 - 🌱 I’m currently learning **JS, .Node, React, Python**
 - 💬 Ask me about **Web Dev, APIs, Open Source**
 
