@@ -37,13 +37,13 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikata32&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats-three-iota-80.vercel.app/api?username=Ikata32&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats&hide_border=true" alt="stats" />
   
   <!-- Streak Stats (still works with herokuapp) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikata32&theme=tokyonight&hide_border=true" alt="streak" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikata32&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+  <img src="github-readme-stats-three-iota-80.vercel.app/api/top-langs/?username=Ikata32&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
 </p>
 
 ---
